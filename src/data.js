@@ -1158,6 +1158,24 @@ const pages = [
       'Node',
     ],
   },
+  {
+    name: 'Wouter van Erp',
+    description: 'Freelancer developer who loves to experiment and validate',
+    url: 'https://www.woutervanerp.nl',
+    twitter: '@woutervanerp',
+    emoji: '🐈',
+    country: '🇳🇱',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Entrepreneur',
+      'Full stack',
+      'WordPress',
+      'Laravel',
+      'Vue',
+
+    ],
+  },
 ];
 
 export default pages;
